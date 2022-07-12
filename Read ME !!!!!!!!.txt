@@ -1,0 +1,8 @@
+Run the data bookstore system script in sql managment studio on you db 
+
+and there are 2 admin screens to create
+
+1 . for Payment methods
+2. Bank Info 
+
+for the above to both are create the views and method just add the link to you admin side
